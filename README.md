@@ -13,7 +13,7 @@ Doing silly stuff and anything that comes into my mind is my philosophy.
 Be **dumb**. Be **silly**. Write whatever is **fun**.
 
 - Is it needed? **Absolutely not.**
-- Is it fun? **ABSOLUTELY YES 🔥🔥🔥**
+- Is it fun? **ABSOLUTELY *YES* 🔥🔥🔥**
 
 ## What do I use?
 
