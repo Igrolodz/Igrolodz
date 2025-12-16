@@ -1,16 +1,29 @@
-## Hi there 👋
+# Welcome traveler 🧙‍♂️
 
-<!--
-**Igrolodz/Igrolodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You may know me as ***Iggy The Axolotl 🦎***
 
-Here are some ideas to get you started:
+Content creator on **[YouTube](https://www.youtube.com/@IggyTheAxolotl)** and **[Twitch](https://www.twitch.tv/IggyTheAxolotl)**, ironically struggling with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What do I do?
+
+### **Everything.**
+
+Doing silly stuff and anything that comes into my mind is my philosophy.
+
+Be **dumb**. Be **silly**. Write whatever is **fun**.
+
+- Is it needed? **Absolutely not.**
+- Is it fun? **ABSOLUTELY YES 🔥🔥🔥**
+
+## What do I use?
+
+### **Everything.**
+
+Going from high to low level languages in order to create whatever that I need to do.
+
+You may find **Unity** work, **python** servers, **front-end** apps and many other **weird** stuff that I thought were cool.
+
+## Something about me?
+
+- I live under water, please help me. ***bul bul bul 🫧*** 
+- ***Axolotl 🦎*** is my spirit animal. **Silly**, **lazy** and **happy** all the time.
