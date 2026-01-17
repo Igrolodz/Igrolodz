@@ -25,5 +25,5 @@ You may find **Unity** work, **python** servers, **front-end** apps and many oth
 
 ## Something about me?
 
-- I live under water, please help me. ***bul bul bul 🫧*** 
+- I live under the water, please help me. ***bul bul bul 🫧*** 
 - ***Axolotl 🦎*** is my spirit animal. **Silly**, **lazy** and **happy** all the time.
