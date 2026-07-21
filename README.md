@@ -13,13 +13,13 @@ Doing silly stuff and anything that comes into my mind is my philosophy.
 Be **dumb**. Be **silly**. Write whatever is **fun**.
 
 - Is it needed? **Absolutely not.**
-- Is it fun? **ABSOLUTELY YES 🔥🔥🔥**
+- Is it fun? **HELLL YEAAAHHHH 🔥🔥🔥**
 
 ## What do I use?
 
 ### **Everything.**
 
-Going from high to low level languages in order to create whatever that I need to do.
+Going from high to low level languages in order to create whatever that I need.
 
 You may find **Unity** work, **python** servers, **front-end** apps and many other **weird** stuff that I thought were cool.
 
